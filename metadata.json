@@ -1,0 +1,7 @@
+{
+  "name": "Entrega Express - Localizador de Rotas",
+  "description": "Sistema de consulta de entregas baseado em geolocalização por polígonos, permitindo busca por endereço, CEP ou cliente.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
